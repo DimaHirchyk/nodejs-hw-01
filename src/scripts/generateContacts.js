@@ -5,13 +5,13 @@ import { writeContacts } from '../utils/writeContacts.js';
 const generateContacts = async (number) => {
   try {
     const oldContacts = await readContacts();
-    let newContacts = [];
+    let newContact = [];
 
     for (let i = 0; i < number; i++) {
-      newContacts.push(createFakeContact());
+      newContact.push(createFakeContact());
     }
 
-    await writeContacts([...oldContacts, ...newContacts]);
+    await writeContacts([...oldContacts, ...newContact]);
   } catch (error) {
     console.log(error.message);
   }
