@@ -1,1 +1,40 @@
-[]
+[
+  "[",
+  "]",
+  "\n",
+  {
+    "id": "dc2f9117-5762-4af1-b400-ffaf5dba9b60",
+    "name": "Eugene Walker II",
+    "phone": "890.389.4815 x803",
+    "email": "Lorena.Koch-Pfannerstill46@gmail.com",
+    "job": "Product Usability Specialist"
+  },
+  {
+    "id": "8c7afbfc-172f-4e8e-b398-d8fd8de842ce",
+    "name": "Josh Fisher",
+    "phone": "629.300.8178 x173",
+    "email": "Bernardo26@gmail.com",
+    "job": "Forward Division Coordinator"
+  },
+  {
+    "id": "8a8ac928-857a-49d2-91a2-bdc958129fa7",
+    "name": "Forrest Bernier",
+    "phone": "(576) 925-1250 x14434",
+    "email": "Rey.Labadie80@yahoo.com",
+    "job": "Senior Creative Liaison"
+  },
+  {
+    "id": "bdf3ee6c-abc3-49c6-bc47-364a00283fc2",
+    "name": "Gilbert Shanahan",
+    "phone": "596-858-9839",
+    "email": "Kaitlyn_Johnston@gmail.com",
+    "job": "District Usability Executive"
+  },
+  {
+    "id": "4b535316-3b33-4c2f-b753-a93c72352e40",
+    "name": "Mr. Thomas Halvorson PhD",
+    "phone": "348-831-6874 x94382",
+    "email": "Demarco.Renner3@yahoo.com",
+    "job": "Future Configuration Director"
+  }
+]
